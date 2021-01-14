@@ -1,5 +1,5 @@
 {
-  "name": "XBOT",
+  "name": "XNXBOT",
   "version": "1.0.0",
   "description": "Xbot for whatsapp online with termux",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "k"
   ],
-  "author": "affis junianto",
+  "author": "achillboyy",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/affisjunianto/botwasapv2.git"
